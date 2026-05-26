@@ -2,6 +2,9 @@
 These are the essential rice I do to make my Kali more personalized to my taste. I like it, but it definitely has more room for improvement.
 
 
+![demo](./demo.png)
+
+
 **1. Wallpaper**
 * Move "kali-wallpaper.png" to "/usr/share/backgrounds/kali/"
 * Desktop (Settings) > "Choose the wallpaper", also "Apply to all workspaces" if you want that.

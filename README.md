@@ -21,23 +21,30 @@ These are the essential rice I do to make my Kali more personalized to my taste.
 
 
 **4. Use the icons for the GTK**
-* Download and move "Tela-dark (icons).tar.xz" to "/usr/share/icons/"
+* Download and move "01-Tela.tar (icons).xz" to "/usr/share/icons/"
 * Apperance > Icons > Select "Tela-dark (icons)"
 
 
 **5. Add a GTK .css for the user**
 * Download and move "gtk.css" to "~/.config/gtk-3.0/gtk.css"
 
+
 **6. Edit a keyboard shortcut**
 * Keyboard > Application Shortcuts > Select Command "xfce4-appfinder"
 * Change it to "bash -c 'pgrep xfce4-appfinder && pkill xfce4-appfinder || xfce4-appfinder'"
+
 
 **7. Configure Application Finder**
 * Disable "Keep running instance in the background"
 * Enable "Single-click selects and launches items"
 
 
-**8. Change fonts**
+**8. Add a xcape super key bind**
+* Session and Startup > Application Autostart > Add
+* Name "Xcape Super Key Bind 2", Description "Bind Super Key to Alt F3", Comamnd ""
+
+
+**9. Change fonts**
 * Appearance > Fonts > Select "Monospace Bold" as "Default Monospace Font"
 * Terminal settings > Select "Monospace" as "Font"
 

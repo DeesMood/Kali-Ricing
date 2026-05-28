@@ -44,7 +44,11 @@ These are the essential rice I do to make my Kali more personalized to my taste.
 * Name "Xcape Super Key Bind 2", Description "Bind Super Key to Alt F3", Comamnd ""
 
 
-**9. Change fonts**
+**9. Configure Window Manager Tweaks**
+* Disable "Show shadows under dock windows"
+
+
+**10. Change fonts**
 * Appearance > Fonts > Select "Monospace Bold" as "Default Monospace Font"
 * Terminal settings > Select "Monospace" as "Font"
 

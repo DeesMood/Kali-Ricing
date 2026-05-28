@@ -2,7 +2,7 @@
 These are the essential rice I do to make my Kali more personalized to my taste. I like it, but it definitely has more room for improvement.
 
 
-![demo](./demo.png)
+![demo](./demo2.png)
 
 
 **1. Wallpaper**

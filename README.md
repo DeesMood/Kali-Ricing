@@ -49,8 +49,9 @@ These are the essential rice I do to make my Kali more personalized to my taste.
 
 
 **10. Change fonts**
-* Appearance > Fonts > Select "Monospace Bold" as "Default Monospace Font"
-* Terminal settings > Select "Monospace" as "Font"
+* Download and move "Inter (fonts).zip" and "JetBrainsMono-2.304 (fonts).zip" to "/usr/share/fonts/"
+* Appearance > Fonts > Select "Inter Regular" as "Default Font" and "JetBrains Mono Medium" as "Default Monospace Font"
+* Terminal settings > Select "JetBrains Mono" as "Font"
 
 
 ### Optionals
@@ -67,3 +68,5 @@ Didn't do any of these because it will consume a bit more resource which I don't
 
 **3. Use a template for your terminal emulator**
 * You can use more templates for the terminal UI which you get in the internet usually named like "\[FILENAME\].color.scheme"
+
+
